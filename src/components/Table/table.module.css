@@ -1,0 +1,4 @@
+.table td,
+.table th {
+  @apply p-4 border;
+}
